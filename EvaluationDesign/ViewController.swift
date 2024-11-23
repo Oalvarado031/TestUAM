@@ -75,7 +75,7 @@ class ViewController: UIViewController {
             welcomeLabel.centerXAnchor.constraint(equalTo: view.centerXAnchor)
         ])
         
-        welcomeLabel2.text = "Universitarios"
+        welcomeLabel2.text = "Universitario"
         welcomeLabel2.textColor = .black
         welcomeLabel2.font = UIFont(name: "Georgia-Bold", size: 35)
         welcomeLabel2.translatesAutoresizingMaskIntoConstraints = false
